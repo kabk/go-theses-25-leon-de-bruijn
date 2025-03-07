@@ -258,23 +258,27 @@ transition: 0.05s ease background-color;
 #menuList ul {
   position: relative;
   background-color:transparent;
-  list-style-position: inside;
-  list-style-image: url('./assets/imgs/Asset_8.svg');
+  /* list-style-position: inside;
+  list-style-image: url('./assets/imgs/Asset_8.svg'); */
 }
 
 #menuList ul li {
-  padding-left: 5rem;
+  padding-left: 1rem;
 }
 
 #menuList ul li a{
   padding-left: 0.5rem;
 }
 
-#menuList ::marker {
+.star{
+  height: 2rem;
+}
+
+/* #menuList ::marker {
   font-size: 3rem;
   transform: scale(2);
   line-height: 0;
-}
+} */
 
 
 #NAVIGATION {
