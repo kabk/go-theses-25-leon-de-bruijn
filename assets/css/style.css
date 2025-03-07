@@ -194,6 +194,8 @@ figure{
 
 .imgGallery .figImg{
   width: calc(50% - 0.5rem);
+  object-fit: cover;
+  aspect-ratio: 14 / 9;
   float: left;
   padding-bottom: 0.5rem;
   padding-right: 0.5rem;
