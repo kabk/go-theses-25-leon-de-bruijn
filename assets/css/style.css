@@ -61,6 +61,16 @@ body {
   overflow-y:auto;
 }
 
+.mainTitle{
+  left: 50%;
+  transform: translate(-50%,0);
+  position: relative;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  max-height: 80vh;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
 
 .col2{
   padding-left: 2rem;
