@@ -259,7 +259,7 @@ transition: 0.05s ease background-color;
   position: relative;
   background-color:transparent;
   list-style-position: inside;
-  list-style-image: url('/assets/imgs/Asset\ 8.svg');
+  list-style-image: url('/assets/imgs/Asset_8.svg');
 }
 
 #menuList ul li {
