@@ -433,4 +433,7 @@ main{
   #NAVIGATION{
     font-size: 1.5rem;
   }
+  .star{
+    height: 1.5rem;
+  }
 }
